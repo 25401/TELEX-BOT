@@ -1,40 +1,39 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+ </p>
 <p align="center">
-    <img src="./" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=WELCOME+TELEX+WHATSAPP" var="">
+   </p>
+<p align="center">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=MULTI-DEVICE+BOT" var="">
+  
+<p align="center">
+    <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230619-WA0031.jpg"%100 = *margin*. var=2">
 </p>
 
-## PENTING
-
-> **Warning**: This script is not for trading with permission. 
-
-<h1 align="center">Anya_v2 - MultiDevice</h1>
-<p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;Developed+on+Cheems+v4+Base;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
-</p>
-
-<p align="center">
- <a href="#"><img title="Anya_v2-MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+## 
 </p>
 <p align="center">
-<a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/25401?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/25401/TELEX-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/25401/TELEX-BOT?color=yellow&style=flat-square"></a>
+<a href="https://github.com/25401/TELEX-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/25401/TELEX-BOT?label=Watchers&color=red&style=flat-square"></a>
+
+# 
+
+
+<p align="center">
+ <a href="#"><img title="TELEX-BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/25401"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Trayoh-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
-
-## ```Tap Here For Help ⛩️``` 
-  <a href="https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-  
-    Tap here for contact me on WhatsApp Messenger 🎐
-    
-  <a href="My email: alammdarif07@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
-  
-    My email Adress : alammdarif07@gmail.com 🎐
-     
-    
+ 
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT%20BY%20PIKA~-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918811074852?text=*Hello%20Dear%20Pika~*) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT%20BY%20TRAYOH~-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254706519089?text=*Hello%20Dear%20TRAYOH*) 
 ---------
 
 ### Info About This Bot 🦋
@@ -43,42 +42,42 @@
 - ✔️ | **Multi Device** 
 ---------
 ### Some of the features included
-- ✔️ | AntiCall
-- ✔️ | AntiLink
-- ✔️ | AntiAntiToxic
-- ✔️ | AntiMedia
-- ✔️ | Auto Restart
-- ✔️ | Anime
-- ✔️ | ChatBot
-- ✔️ | Fancy Text
-- ✔️ | Menfess
-- ✔️ | Nsfw 
-- ✔️ | Only Admins (BETA)
-- ✔️ | Promote & Demote Message
-- ✔️ | Public & Private
-- ✔️ | Tools 
-- ✔️ | RandomMenu
-- ✔️ | Stalker
-- ✔️ | Sticker
-- ✔️ | Welcome & Left Message
+- | AntiCall
+- | AntiLink
+- | AntiAntiToxic
+- | AntiMedia
+- | Auto Restart
+- | Anime
+- | ChatBot
+- | Fancy Text
+- | Menfess
+- | Nsfw 
+- | Only Admins (BETA)
+- | Promote & Demote Message
+- | Public & Private
+- | Tools 
+- | RandomMenu
+- | Stalker
+- | Sticker
+- | Welcome & Left Message
 ---------
 
 ## ```Scan QR Here```
 
 <a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
-  
+_ _ _ _ _ _ _  
 ## ```Deploy On Railway```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```Deploy On Replit```
-
+_ _ _ _ _ _ _ _ _
 [![Run on Repl.it](https://repl.it/badge/github/PikaBotz/Anya_v2-MD)](https://repl.it/github/PikaBotz/Anya_v2-MD)
-
+_ _ _ _ _ _ _ _ _
 ## ```Deploy On Heroku```
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PikaBotz/Anya_v2-MD)
-
+_ _ _ _ _ __ _ _
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -94,7 +93,7 @@ If error try using yarn instead of npm, see [here](https://github.com/PikaBotz/A
 ```bash
 $ node .
 ```
-
+_ _ _ _ __ _ _
 #### For android 10 and above don't use npm, use yarn install
 ```bash
 $ pkg install yarn -y
@@ -123,7 +122,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & ANYA_v2-MultiDevice]
+[ INSTALLING NODEJS & TELEX-MULTIDEVICE-BOT]
 
 ```bash
 ubuntu
@@ -161,25 +160,28 @@ node .
 
 ---------
 
+## ```Tap Here For Help ⛩️``` 
+  <a href="https://wa.me/254706519089?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20Telex%20Bot...%20🥲">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+   
+      Tap here for contact me on WhatsApp Messenger 🍓
+    
+  <a href="Email:entrayoh@gmail.com" 
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
+  
+    My email Adress : [`Tap Here`](entrayoh@gmail.com) ☘️
 
 ### 📮 Terms & Conditions
 1. This repo is not for sale trade.
 2. Don't forget give `star` this repo 🌟
 3. This script is not made for `illegal` purpose.
-4. If you have problem, [`Tap Here`](https://wa.me/918811074852?text=Hello%20*master%20Pika~Kun*%20sir...%20I%20need%20some%20help%20in%20Anya%20v2...%20🥲) for help
+4. If you have problem, [`Tap Here`](https://wa.me/918811074852?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20TELEX%20BOT...%20🥲) for help
 
 ---------
-
-## ```Thanks to ✨```
-* [`Nexus`](https://github.com/NexusAt12) - | ✅ For Script compatibility
-* [`Xeon`](https://github.com/DGXeon) - | ✅ For Cheems v4 Base
-* [`OldUser`](https://github.com/Teamolduser) - | ✅ For web and modules compatibility
-* [`ImYanXiao`](https://github.com/ImYanXiao) - | ✅ For README.md code
-* [`AdirajShing`](https://github.com/adiwajshing/Baileys) - | ✅ For a huge library
 
 ## ```Repo Statistics ✏️```
     
 <p align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=25401&repo=TELEX-BOT-MD&theme=vision-friendly-dark)](https://github.com/25401/TELEX-BOT-MD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=25401&repo=TELEX-BOT&theme=vision-friendly-dark)](https://github.com/25401/TELEX-BOT)
 
