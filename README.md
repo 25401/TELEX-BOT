@@ -7,8 +7,8 @@
   <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=MULTI-DEVICE+BOT" var="">
   
 <p align="center">
-    <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230619-WA0031.jpg"%100 = *margin*. var=2">
-</p>
+    <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230617-WA0000.jpg"%100 = *margin*. var=2">
+</p>7
 
 ## 
 </p>
