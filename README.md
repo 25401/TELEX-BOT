@@ -1,10 +1,10 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  </p>
 <p align="center">
-  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=«『𝙏𝙀𝙇𝙀𝙓』+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝘽𝙊𝙏»" var="">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=9b3a00c4&center=true&vcenter=true&multilines=false&lines=«『𝙏𝙀𝙇𝙀𝙓』+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝘽𝙊𝙏»" var="">
    </p>
 <p align="center">
-  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=BY+𝙏𝙍𝘼𝙔𝙊𝙃" var="">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=9b3a00c4&center=true&vcenter=true&multilines=false&lines=BY+𝙏𝙍𝘼𝙔𝙊𝙃" var="">
   
 <p align="center">
     <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230617-WA0000.jpg"%70 BY= *margin*. var=2">
@@ -139,14 +139,13 @@ join group
 <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
    
   [`Tap Here`](https://chat.whatsapp.com/LvDHtdsA57KEes1ZIQX6Uf?𝙃𝙚𝙡𝙡𝙤%20𝙂𝙪𝙮𝙯%20𝙄'𝙢%20𝙉𝙚𝙬%20𝙃𝙚𝙧𝙚%20𝙄%20𝙉𝙚𝙚𝙙%20)
- join our WhatsApp group 👈🍓
+ 👈join our WhatsApp group🍓
  __________
  ###
  Chat me on WhatsApp 
  <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
    
  [`Tap Here`](https://wa.me/254706519089?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20TELEX%20BOT...%20🥲*)
- 
      👈chat me direct 🍓
     
 _____
