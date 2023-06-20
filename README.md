@@ -1,28 +1,27 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  </p>
 <p align="center">
-  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=WELCOME+TELEX+WHATSAPP" var="">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=«『𝙏𝙀𝙇𝙀𝙓』+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝘽𝙊𝙏»" var="">
    </p>
 <p align="center">
-  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=MULTI-DEVICE+BOT" var="">
+  <a alt="*"><img src="http://readme-typing-svg.herokuapp.com?colour=E1fa02&center=true&vcenter=true&multilines=false&lines=BY+𝙏𝙍𝘼𝙔𝙊𝙃" var="">
   
 <p align="center">
-    <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230617-WA0000.jpg"%100 = *margin*. var=2">
-</p>7
+    <img src="https://github.com/25401/TELEX-BOT/blob/main/IMG-20230617-WA0000.jpg"%70 BY= *margin*. var=2">
 
+____
 ## 
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝙏𝙧𝙖𝙮𝙤𝙝-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/25401?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/25401/TELEX-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/25401/TELEX-BOT?color=yellow&style=flat-square"></a>
+<a href="https://github.com/25401?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/25401?color=black&style=flat-square"></a>
+<a href="https://github.com/25401/TELEX-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/25401/TELEX-BOT?color=pink&style=flat-square"></a>
 <a href="https://github.com/25401/TELEX-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/25401/TELEX-BOT?label=Watchers&color=red&style=flat-square"></a>
 
-# 
-
-
+ ____
+#
 <p align="center">
  <a href="#"><img title="TELEX-BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -34,37 +33,12 @@
 ---------
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT%20BY%20TRAYOH~-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254706519089?text=*Hello%20Dear%20TRAYOH*) 
----------
 
-### Info About This Bot 🦋
-- ✔️ | **Simple But Advanced** 
-- ✔️ | **Button Free Template** 
-- ✔️ | **Multi Device** 
----------
-### Some of the features included
-- | AntiCall
-- | AntiLink
-- | AntiAntiToxic
-- | AntiMedia
-- | Auto Restart
-- | Anime
-- | ChatBot
-- | Fancy Text
-- | Menfess
-- | Nsfw 
-- | Only Admins (BETA)
-- | Promote & Demote Message
-- | Public & Private
-- | Tools 
-- | RandomMenu
-- | Stalker
-- | Sticker
-- | Welcome & Left Message
 ---------
 
 ## ```Scan QR Here```
 
-<a href="https://anyaqr.jetus-hack.repl.co/"><img src="./AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
+<a href="https://anyaqr.jetus-hack.repl.co/"><img src="/AnyaPikaMedia/HomeScreen/AnyaQRscan.png" align="center" width="90" />
 _ _ _ _ _ _ _  
 ## ```Deploy On Railway```
 
@@ -161,16 +135,19 @@ node .
 ---------
 
 ## ```Tap Here For Help ⛩️``` 
+join group 
+  <a href="https://chat.whatsapp.com/LvDHtdsA57KEes1ZIQX6Uf?𝙃𝙚𝙡𝙡𝙤%20𝙂𝙪𝙮𝙯%20𝙄'𝙢%20𝙉𝙚𝙬%20𝙃𝙚𝙧𝙚%20𝙄%20𝙉𝙚𝙚𝙙%20">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+    👉Tap here for more on our WhatsApp group 👈🍓
+ __________
+   direct chat message 
   <a href="https://wa.me/254706519089?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20Telex%20Bot...%20🥲">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
    
-      Tap here for contact me on WhatsApp Messenger 🍓
+      👉Tap here for contact me on WhatsApp Messenger 👈🍓
     
-  <a href="Email:entrayoh@gmail.com" 
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
-  
-    My email Adress : [`Tap Here`](entrayoh@gmail.com) ☘️
-
+_____
 ### 📮 Terms & Conditions
 1. This repo is not for sale trade.
 2. Don't forget give `star` this repo 🌟
