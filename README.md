@@ -139,14 +139,15 @@ join group
 <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
    
   [`Tap Here`](https://chat.whatsapp.com/LvDHtdsA57KEes1ZIQX6Uf?𝙃𝙚𝙡𝙡𝙤%20𝙂𝙪𝙮𝙯%20𝙄'𝙢%20𝙉𝙚𝙬%20𝙃𝙚𝙧𝙚%20𝙄%20𝙉𝙚𝙚𝙙%20)
- join our WhatsApp group 👆🍓
+ join our WhatsApp group 👈🍓
  __________
  ###
+ Chat me on WhatsApp 
  <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
    
  [`Tap Here`](https://wa.me/254706519089?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20TELEX%20BOT...%20🥲*)
-   direct chat message 
-     👆chat me direct  👆🍓
+ 
+     👈chat me direct 🍓
     
 _____
 ### 📮 Terms & Conditions
