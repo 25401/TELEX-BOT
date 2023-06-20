@@ -136,16 +136,13 @@ node .
 
 ## ```Tap Here For Help ⛩️``` 
 join group 
-  <a href="https://chat.whatsapp.com/LvDHtdsA57KEes1ZIQX6Uf?𝙃𝙚𝙡𝙡𝙤%20𝙂𝙪𝙮𝙯%20𝙄'𝙢%20𝙉𝙚𝙬%20𝙃𝙚𝙧𝙚%20𝙄%20𝙉𝙚𝙚𝙙%20">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-
-    👉Tap here for more on our WhatsApp group 👈🍓
+  [`Tap Here`](https://chat.whatsapp.com/LvDHtdsA57KEes1ZIQX6Uf?𝙃𝙚𝙡𝙡𝙤%20𝙂𝙪𝙮𝙯%20𝙄'𝙢%20𝙉𝙚𝙬%20𝙃𝙚𝙧𝙚%20𝙄%20𝙉𝙚𝙚𝙙%20)
+    👆Tap here fore more on our WhatsApp group 👆🍓
  __________
+ ###
+ [`Tap Here`](https://wa.me/918811074852?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20TELEX%20BOT...%20🥲)
    direct chat message 
-  <a href="https://wa.me/254706519089?text=Hello%20*Trayoh%20De'Boss*%20sir...%20I%20need%20some%20help%20in%20Telex%20Bot...%20🥲">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-   
-      👉Tap here for contact me on WhatsApp Messenger 👈🍓
+     👆Tap here for contact me on WhatsApp Messenger 👆🍓
     
 _____
 ### 📮 Terms & Conditions
